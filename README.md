@@ -180,12 +180,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📬 Contact & Connect
-- **GitHub**: [@your-username](https://github.com/your-username)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Email**: your.email@example.com
 
----
 
 ## 🙏 Acknowledgments
 - Dataset source: [Inside Airbnb](http://insideairbnb.com/)
